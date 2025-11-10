@@ -3,6 +3,7 @@
 Documentos y código del laboratorio práctico sobre procesamiento de imágenes en tiempo real.
 
 ## 📖 Documentos Disponibles
+-[📖Documento (]
 
 ### Código Fuente
 - [💻 Ejercicio 1: Clasificador de Formas](shape_classifier.py)
